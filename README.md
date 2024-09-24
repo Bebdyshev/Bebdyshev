@@ -42,9 +42,9 @@
 
 ## 📫 Let's Connect!
 
-- 🌐 Personal Website: [yourwebsite.com](https://amogus.io)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/kerey-berdyshev-a34a52320)
-- 📧 Email: [youremail@example.com](mailto:berdyshev_k1004@gmail.com)
+- 🌐 Personal Website: [amogus.io](https://amogus.io)
+- 💼 LinkedIn: [Berdyshev Kerey](https://www.linkedin.com/in/kerey-berdyshev-a34a52320)
+- 📧 Email: [berdyshev_k1004@gmail.com](mailto:berdyshev_k1004@gmail.com)
 
 ---
 
