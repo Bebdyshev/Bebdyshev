@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kerey! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Bebdyshev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kerey-berdyshev-a34a52320)
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **2 years** of experience in **Web Development**
+- 🧑‍💻 **0.2 years** of experience in **Web Development**
 - 🌊 Currently working on a **Flood Prediction System**
 - 🧠 Passionate about **AI, Machine Learning, and Web Development**
 - 🎓 Always learning and exploring new **technologies**
