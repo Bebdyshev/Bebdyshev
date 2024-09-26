@@ -33,19 +33,4 @@
 
 ---
 
-## 🌱 What I’m Learning
-
-- 🔄 Currently diving deep into **Machine Learning** and **Data Science**
-- 📚 Learning more about **Cloud Technologies** and **DevOps**
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 Personal Website: [amogus.io](https://amogus.io)
-- 💼 LinkedIn: [Berdyshev Kerey](https://www.linkedin.com/in/kerey-berdyshev-a34a52320)
-- 📧 Email: [berdyshev_k1004@gmail.com](mailto:berdyshev_k1004@gmail.com)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Bebdyshev&style=flat-square)
