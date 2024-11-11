@@ -28,7 +28,3 @@
 ## 📈 Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebdyshev&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bebdyshev&style=flat-square)
