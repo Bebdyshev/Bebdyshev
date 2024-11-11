@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **0.2 years** of experience in **Web Development**
+- 🧑‍💻 **0.6 years** of experience in **Web Development**
 - 🌊 Currently working on a **Flood Prediction System**
 
 ---
