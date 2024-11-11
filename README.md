@@ -10,8 +10,6 @@
 
 - 🧑‍💻 **0.2 years** of experience in **Web Development**
 - 🌊 Currently working on a **Flood Prediction System**
-- 🧠 Passionate about **AI, Machine Learning, and Web Development**
-- 🎓 Always learning and exploring new **technologies**
 
 ---
 
