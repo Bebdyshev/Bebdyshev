@@ -6,14 +6,14 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🧑‍💻 **0.6 years** of experience in **WebDev**
 - 🌊 Currently working on a **Flood Prediction System**
 
 ---
 
-## 🔧 Tech Stack
+# 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -24,7 +24,4 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
-
-## 📈 Stats
-
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebdyshev&show_icons=true&hide_title=true&count_private=true&theme=dark)
