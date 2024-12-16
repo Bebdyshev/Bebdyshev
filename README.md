@@ -4,9 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/kerey-berdyshev-a34a52320)
 [![Website](https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=social&logo=internetexplorer)](https://amogus.io)
 
----
-
-## 🚀 About Me
+## About Me
 
 - **0.8 years** of experience in **WebDev**
 - Currently working on a **Disaster Prediction System**
