@@ -1,6 +1,6 @@
 # Hi there, I'm Kerey!
 
-- **492 days** of experience in **WebDev**
+- **675 days** of experience in **WebDev**
 - Currently working on a **Disaster Prediction System**
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/Bebdyshev)

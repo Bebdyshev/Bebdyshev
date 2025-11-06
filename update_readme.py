@@ -2,7 +2,7 @@
 from datetime import datetime, timedelta
 import re
 
-START_DATE = datetime(2024, 7, 2) 
+START_DATE = datetime(2024, 1, 1) 
 README_FILE = "README.MD"
 
 def calculate_days_of_experience():
