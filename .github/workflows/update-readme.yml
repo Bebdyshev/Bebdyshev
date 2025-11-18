@@ -30,7 +30,7 @@ jobs:
       
       - name: Commit and push if changed
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "bebdyshev_k1004@akb.nis.edu.kz"
+          git config --local user.name "Bebdyshev"
           git add README.MD
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update README - $(date +'%Y-%m-%d')" && git push)
