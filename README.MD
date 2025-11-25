@@ -13,4 +13,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Bebdyshev&show_icons=true&hide_title=true&count_private=true&theme=dark)
+[![committers.top badge](https://user-badge.committers.top/kazakhstan_public/USERNAME.svg)](https://user-badge.committers.top/kazakhstan_public/bebdyshev)
