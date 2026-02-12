@@ -1,6 +1,6 @@
 ## Hi there, I'm Kerey!
 
-- **772 days** of experience in **WebDev**
+- **773 days** of experience in **WebDev**
 
 [![committers.top badge](https://user-badge.committers.top/kazakhstan_public/Bebdyshev.svg)](https://user-badge.committers.top/kazakhstan_public/Bebdyshev)
 
