@@ -1,36 +1,36 @@
-name: Update README
+# name: Update README
 
-on:
-  schedule:
-    # Runs at 00:00 UTC every day
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows manual trigger
+# on:
+#   schedule:
+#     # Runs at 00:00 UTC every day
+#     - cron: '0 0 * * *'
+#   workflow_dispatch: # Allows manual trigger
 
-permissions:
-  contents: write
+# permissions:
+#   contents: write
 
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
+# jobs:
+#   update-readme:
+#     runs-on: ubuntu-latest
     
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
+#         with:
+#           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.11'
       
-      - name: Update README
-        run: |
-          python update_readme.py
+#       - name: Update README
+#         run: |
+#           python update_readme.py
       
-      - name: Commit and push if changed
-        run: |
-          git config --local user.email "berdyshev_k1004@akb.nis.edu.kz"
-          git config --local user.name "Bebdyshev"
-          git add README.MD
-          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update README - $(date +'%Y-%m-%d')" && git push)
+#       - name: Commit and push if changed
+#         run: |
+#           git config --local user.email "berdyshev_k1004@akb.nis.edu.kz"
+#           git config --local user.name "Bebdyshev"
+#           git add README.MD
+#           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update README - $(date +'%Y-%m-%d')" && git push)
